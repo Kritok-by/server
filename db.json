@@ -1,0 +1,88 @@
+{
+  "store": [
+    {
+      "id": 1,
+      "release": "Mar 2019",
+      "manufacturer": "Zotac",
+      "name": "USED Antminer S9",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "img": "14",
+      "algorithm": "SHA-256 ",
+      "efficiency": "8.00j/H/s ",
+      "profit": "122.88",
+      "minPrice": "131.00",
+      "maxPrice": "211.00"
+    },
+    {
+      "id": 2,
+      "release": "Mar 2019",
+      "manufacturer": "MSI",
+      "name": "USED Antminer S9",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "img": "14",
+      "algorithm": "SHA-256 ",
+      "efficiency": "8.00j/H/s ",
+      "profit": "122.88",
+      "minPrice": "132.00",
+      "maxPrice": "212.00"
+    },
+    {
+      "id": 3,
+      "release": "Mar 2018",
+      "manufacturer": "ASUS",
+      "name": "USED Antminer S9",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "img": "14",
+      "algorithm": "SHA-256 ",
+      "efficiency": "8.00j/H/s ",
+      "profit": "122.88",
+      "minPrice": "133.00",
+      "maxPrice": "213.00"
+    },
+    {
+      "id": 4,
+      "release": "Mar 2019",
+      "manufacturer": "Palit",
+      "name": "USED Antminer S9",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "img": "14",
+      "algorithm": "SHA-256 ",
+      "efficiency": "8.00j/H/s ",
+      "profit": "122.88",
+      "minPrice": "134.00",
+      "maxPrice": "214.00"
+    },
+    {
+      "id": 5,
+      "release": "Mar 2019",
+      "manufacturer": "EVGA",
+      "name": "USED Antminer S9",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "img": "14",
+      "algorithm": "SHA-256 ",
+      "efficiency": "8.00j/H/s ",
+      "profit": "122.88",
+      "minPrice": "135.00",
+      "maxPrice": "215.00"
+    },
+    {
+      "id": 6,
+      "release": "Mar 2019",
+      "manufacturer": "Bitmain",
+      "name": "USED Antminer S9",
+      "model": "S9i",
+      "hash": "10.5-14.5 th/s",
+      "img": "14",
+      "algorithm": "SHA-256 ",
+      "efficiency": "8.00j/H/s ",
+      "profit": "122.88",
+      "minPrice": "136.00",
+      "maxPrice": "216.00"
+    }
+  ]
+}
